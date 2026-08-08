@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Forwarder",
+  "description": "Android Telegram bot message forwarding service running directly on device",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
